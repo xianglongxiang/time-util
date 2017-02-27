@@ -14,6 +14,7 @@ Example:
  timeUtil.format(new Date(),'ii') // 30
  timeUtil.format(new Date(),'ss') // 00
  timeUtil.format('2015-02-15 11:30:00','yyyy-mm-dd hh-ii-ss') // 2015-02-15 11-30-00
+ timeUtil.format('2015-02-15 11:30:00','hh-ii-ss') // 11-30-00
 
 ```
 
