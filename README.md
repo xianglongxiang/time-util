@@ -16,7 +16,7 @@ Example:
  timeUtil.format('2015-02-15 11:30:00','yyyy-mm-dd hh-ii-ss') // 2015-02-15 11-30-00
  timeUtil.format('2015-02-15 11:30:00','hh-ii-ss') // 11-30-00
  timeUtil.format('2015-02-15 11:30:00','mm-dd') // 02-15
- timeUtil.format('2015-02-15 11:30:00','mm-dd') // 02-15
+ timeUtil.format('2015-02-16 11:30:00','mm-dd') // 02-16
 	
 
 ```
